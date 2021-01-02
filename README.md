@@ -35,21 +35,21 @@
 
 <!-- YOUTUBE:START -->
 
-- [Learn CSS Flexbox in an interesting way! |](https://jisanmia.medium.com/learn-css-flexbox-in-an-interesting-way-3ed3c826efb9)
-- [JavaScript Basics in Bangla |](https://www.linkedin.com/pulse/day-16-javascript-basics-jisan-mia/)
-- [Important things CSS (block, inline-block element, position, property, grid vs flexbox) |](https://www.linkedin.com/pulse/block-inline-block-element-position-property-grid-vs-jisan-mia/)
-- [Basic Git and GitHub |](https://www.linkedin.com/pulse/100daycode-day-3-basic-git-github-jisan-mia/)
-- [HTML5 Semantic tags, audio, video, table, form |](https://www.linkedin.com/pulse/day-7-html5-semantic-tags-audio-video-table-form-jisan-mia/)
+- [Learn CSS Flexbox in an interesting way! ](https://jisanmia.medium.com/learn-css-flexbox-in-an-interesting-way-3ed3c826efb9)
+- [JavaScript Basics in Bangla ](https://www.linkedin.com/pulse/day-16-javascript-basics-jisan-mia/)
+- [Important things CSS (block, inline-block element, position, property, grid vs flexbox) ](https://www.linkedin.com/pulse/block-inline-block-element-position-property-grid-vs-jisan-mia/)
+- [Basic Git and GitHub ](https://www.linkedin.com/pulse/100daycode-day-3-basic-git-github-jisan-mia/)
+- [HTML5 Semantic tags, audio, video, table, form ](https://www.linkedin.com/pulse/day-7-html5-semantic-tags-audio-video-table-form-jisan-mia/)
 <!-- YOUTUBE:END -->
 
 ---
 
 ### Some of my projects
 
-- [world-countries | Explore about 250 countries important information |](https://world-countriees.netlify.app/)
+- [World-countries | Explore about 250 countries important information ](https://world-countriees.netlify.app/)
 - [An e-commerce site built using Reactjs](https://e-shop12.netlify.app/)
-- [JavaScript Bug Tracker |](https://jisan-mia.github.io/javascript-bug-tracker/)
-- [Random User Geerator |](https://jisan-mia.github.io/random-user-generator-js/)
-- [Weather App | JavaScript Project |](https://jisan-mia.github.io/weather-app-js/)
+- [JavaScript Bug Tracker ](https://jisan-mia.github.io/javascript-bug-tracker/)
+- [Random User Geerator ](https://jisan-mia.github.io/random-user-generator-js/)
+- [Weather App | JavaScript Project ](https://jisan-mia.github.io/weather-app-js/)
 
 ---
