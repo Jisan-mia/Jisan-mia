@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there, I'm Jisan 👋</h1>
 
-<h2 align="center"> I'm an enthusiastic and passionate Front-end Web Develper, who enjoy coding!</h2>
+<h2 align="center"> I'm an enthusiastic and passionate Front-end Web Developer, who enjoys coding!</h2>
 
 - 📚 I’m currently learning React, Javascript, Nodejs and MongoDB.
 - 👯 I’m looking to collaborate with other passionate developers.
