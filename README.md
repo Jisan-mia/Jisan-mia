@@ -23,7 +23,7 @@
 [![Firebase Badge](https://img.shields.io/badge/firebase-EFEFEF?style=for-the-badge&logo=firebase&logoColor=F76C00)](#)
 [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#) 
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)  
-
+<!-- [![Next.js Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#)  -->
 <br />
 <br />
 
