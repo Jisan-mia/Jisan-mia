@@ -25,7 +25,6 @@
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)  
 <!-- [![Next.js Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#)  -->
 <br />
-
 ---
 
 ### 📺 Latest Blogs
