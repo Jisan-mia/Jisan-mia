@@ -29,7 +29,7 @@
 
 ### 🖥⌨ Stats
 
-| <a href="https://github.com/Jisan-mia"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Jisan-mia&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Jisan-mia"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jisan-mia&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/Jisan-mia"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Jisan-mia&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Jisan-mia"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jisan-mia&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ---
@@ -47,7 +47,7 @@
 
 ---
 
-### Some of my projects
+### 🏆 Some of my projects
 
 - [World-countries | Explore about 250 countries important information ](https://world-countriees.netlify.app/)
 - [An e-commerce site built using Reactjs](https://e-shop12.netlify.app/)
