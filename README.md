@@ -27,6 +27,13 @@
 [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)  -->
 ---
 
+### 🖥⌨ Stats
+
+| <a href="https://github.com/Jisan-mia"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Jisan-mia&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Jisan-mia"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jisan-mia&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+---
+
 ### 📺 Latest Blogs
 
 <!-- BLOG:START -->
