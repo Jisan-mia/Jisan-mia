@@ -9,6 +9,7 @@
 - 📬 How to reach me: <a href="mailto:jisanmia47@gmail.com">Let's get in touch!</a>
 - ⚡ Fun fact: I really love to travel and explore new things in my free time.
 
+
 ### 💻 Languages and Tools I code with:
 
 [![CSS3 Badge](https://img.shields.io/badge/css3-EFEFEF?style=for-the-badge&logo=css3&logoColor=254BDD)](#)
@@ -27,10 +28,19 @@
 [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)  -->
 ---
 
+
 ### 🖥⌨ Stats
+
 
 | <a href="https://github.com/Jisan-mia"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Jisan-mia&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Jisan-mia"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jisan-mia&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jisan-mia&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) | this is <br /> extra a |
+
+<br />
+
+[![Jisan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Jisan-mia&bg_color=1a1b27&color=1f6feb&line=38bcad&point=628fdb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br />
 
 ---
 
