@@ -34,7 +34,7 @@
 
 | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jisan-mia&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)  | <a href="https://github.com/Jisan-mia"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Jisan-mia&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" /></a> | 
 | :------------- | :-------------: |
-| <a href="https://github.com/Jisan-mia"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jisan-mia&layout=compact&theme=tokyonight&hide_border=true" /></a>  | <b>One of my most productive days was throwing <br /> away 1000 lines of code.</b> |
+| <a href="https://github.com/Jisan-mia"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jisan-mia&layout=compact&theme=tokyonight&hide_border=true" /></a>  | <b>One of my most productive days was throwing <br /> away 1000 lines of code. - <i>Ken Thompson </i></b> |
 
 <br />
 
