@@ -1,5 +1,4 @@
-![Termux Logo](https://user-images.githubusercontent.com/72879799/153904003-d7dee710-6552-4d23-a803-7a9a0ba67d92.png#gh-dark-mode-only)
-![Termux Logo](https://user-images.githubusercontent.com/72879799/153904095-9d78a019-8495-4035-8174-e3da8e4dd66b.png#gh-light-mode-only)
+<!-- thems: #gh-dark-mode-only, #gh-light-mode-only  -->
 
 <h1 align="center"> Hi there, I'm Jisan 👋</h1>
 
@@ -35,13 +34,12 @@
 ### 🖥⌨ Stats
 
 
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jisan-mia&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)  | <a href="https://github.com/Jisan-mia"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Jisan-mia&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" /></a> | 
+| <a href="https://github.com/Jisan-mia"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Jisan-mia&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)#gh-dark-mode-only" alt="Jsans's github stats" /></a> | <a href="https://github.com/Jisan-mia"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Jisan-mia&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true#gh-dark-mode-only" alt="Jsans's github stats" /></a> | 
 | :------------- | :-------------: |
-| <a href="https://github.com/Jisan-mia"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jisan-mia&layout=compact&theme=tokyonight&hide_border=true" /></a>  | <b>One of my most productive days was throwing <br /> away 1000 lines of code. - <i>Ken Thompson </i></b> |
+| <a href="https://github.com/Jisan-mia"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jisan-mia&layout=compact&theme=tokyonight&hide_border=true#gh-dark-mode-only" /></a>  | <b>One of my most productive days was throwing <br /> away 1000 lines of code. - <i>Ken Thompson </i></b> |
 
 <br />
-
-[![Jisan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Jisan-mia&bg_color=1a1b27&color=1f6feb&line=38bcad&point=628fdb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="https://github.com/Jisan-mia"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=Jisan-mia&bg_color=1a1b27&color=1f6feb&line=38bcad&point=628fdb&area=true&hide_border=true)#gh-dark-mode-only" alt="Jsans's github stats" /></a>
 
 <br />
 
