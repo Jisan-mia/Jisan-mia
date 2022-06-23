@@ -4,10 +4,10 @@
 
 <h2 align="center"> I'm an enthusiastic and passionate Front-end Web Developer, who enjoys coding!</h2>
 
-- 📚 Learning everyday, currently learning to master MERN stack.
+- 📚 Learning everyday, currently learning to master Frontend Engineering.
 - 👯 I’m looking to collaborate with other passionate developers and contribute to Open Source projects.
 - 💬 Actively writing blogs [Check it Out!](https://medium.com/@jisanmia)
-- 🌋 I’m always looking for challenging work oppurtunities ahead.
+- 🌋 I’m always looking for challenging work opportunities ahead.
 - 📬 How to reach me: <a href="mailto:jisanmia47@gmail.com">Let's get in touch!</a>
 - ⚡ Fun fact: I really love to travel and explore new things in my free time.
 
