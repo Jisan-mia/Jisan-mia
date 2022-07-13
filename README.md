@@ -13,10 +13,10 @@
 
 
 ### 💻 Languages and Tools I code with:
-
+<!-- [![Bootstrap Badge](https://img.shields.io/badge/bootstrap-7010EF?style=for-the-badge&logo=bootstrap&logoColor=white)](#) -->
 [![CSS3 Badge](https://img.shields.io/badge/css3-EFEFEF?style=for-the-badge&logo=css3&logoColor=254BDD)](#)
 [![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#)
-[![Bootstrap Badge](https://img.shields.io/badge/bootstrap-7010EF?style=for-the-badge&logo=bootstrap&logoColor=white)](#)
+[![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
