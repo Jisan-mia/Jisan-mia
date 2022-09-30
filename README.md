@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hi there, I'm Jisan 👋</h1>
 
-<h2 align="center">An enthusiastic and passionate front-end engineer who enjoys coding!</h2>
+<h2 align="center">An enthusiastic and passionate Front-End Developer who enjoys coding!</h2>
 
 - 📚 Learning everyday, currently learning to master Frontend Engineering.
 - 👯 I’m looking to collaborate with other passionate developers and contribute to Open Source projects.
