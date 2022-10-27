@@ -1,6 +1,6 @@
 <!-- thems: #gh-dark-mode-only, #gh-light-mode-only  -->
 
-<h1 align="center"> Hey there, This is Jisan 👋</h1>
+<h1 align="center"> Hi there, This is Jisan 👋</h1>
 
 <h2 align="center">An enthusiastic and passionate Front-End Developer who enjoys coding!</h2>
 
