@@ -1,15 +1,18 @@
 <!-- thems: #gh-dark-mode-only, #gh-light-mode-only  -->
 
-<h1 align="center"> Hi there, This is Jisan 👋</h1>
+<h2 align="center"> Hi there, This is Jisan 👋</h2>
 
-<h2 align="center">An enthusiastic and passionate Front-End Developer who enjoys coding!</h2>
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/61211600/230232400-965fa7c0-f37d-4ad0-91eb-ed11c2002f03.png" />
+</p>
 
-- 📚 Learning everyday, currently learning to master Frontend Engineering.
-- 👯 I’m looking to collaborate with other passionate developers and contribute to Open Source projects.
-- 💬 Actively writing blogs [Check it Out!](https://medium.com/@jisanmia)
-- 🌋 I’m always looking for challenging work opportunities ahead.
-- 📬 How to reach me: <a href="mailto:jisanmia47@gmail.com">Let's get in touch!</a>
-- ⚡ Fun fact: I really love to travel and explore new things in my free time.
+
+
+:hearts: &emsp;Passionate developer who enjoys programmming and love to contribute to Open Source projects  <br />
+💬 &emsp;Actively writing blogs at [https://medium.com/@jisanmia](https://jisanmia.medium.com/)<br />
+🌋 &emsp;I’m always looking for challenging work opportunities ahead.<br />
+:e-mail: &emsp;How to reach me: jisanmia47@gmail.com<br/>
+⚡ &emsp;Fun fact: I really love to travel and explore new things in my free time.<br />
 
 
 ### 💻 Languages and Tools I code with:
