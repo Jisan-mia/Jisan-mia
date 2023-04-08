@@ -1,6 +1,6 @@
 <!-- thems: #gh-dark-mode-only, #gh-light-mode-only  -->
 
-<h2 align="center"> Hi there, This is Jisan 👋</h2>
+<h2 align="center"> Hi there, this is Jisan 👋</h2>
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/61211600/230232400-965fa7c0-f37d-4ad0-91eb-ed11c2002f03.png" />
