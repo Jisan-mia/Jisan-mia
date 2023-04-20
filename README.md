@@ -45,7 +45,8 @@
 
 <br />
 
-<picture><source srcset="https://github-readme-activity-graph.cyclic.app/graph?username=Jisan-mia&bg_color=1a1b27&color=1f6feb&line=38bcad&point=628fdb&area=true&hide_border=true" media="(prefers-color-scheme: dark)"/><source srcset="https://github-readme-activity-graph.cyclic.app/graph?username=Jisan-mia&bg_color=ffffff&color=000000&line=FB8C00&point=000000&area=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Jisan-mia&bg_color=1a1b27&color=1f6feb&line=38bcad&point=628fdb&area=true&hide_border=true" /></picture>
+| <picture><source srcset="https://github-readme-activity-graph.cyclic.app/graph?username=Jisan-mia&bg_color=1a1b27&color=1f6feb&line=38bcad&point=628fdb&area=true&hide_border=true" media="(prefers-color-scheme: dark)"/><source srcset="https://github-readme-activity-graph.cyclic.app/graph?username=Jisan-mia&bg_color=ffffff&color=000000&line=FB8C00&point=000000&area=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Jisan-mia&bg_color=1a1b27&color=1f6feb&line=38bcad&point=628fdb&area=true&hide_border=true" /></picture> |  
+|--|
 
 <br />
 
