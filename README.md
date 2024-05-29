@@ -9,7 +9,7 @@
 
 
 :hearts: &emsp;Passionate developer who enjoys programmming and love to contribute to Open Source projects  <br />
-💬 &emsp;Actively writing blogs at [https://medium.com/@jisanmia](https://jisanmia.medium.com/)<br />
+💬 &emsp;Actively writing blogs at [https://medium.com/@jisanmia](https://jisanmia.medium.com/) and [dev.to](https://dev.to/jisan) <br />
 🌋 &emsp;I’m always looking for challenging work opportunities ahead.<br />
 :e-mail: &emsp;How to reach me: jisanmia47@gmail.com<br/>
 ⚡ &emsp;Fun fact: I really love to travel and explore new things in my free time.<br />
@@ -55,7 +55,7 @@
 ### 📺 Latest Blogs
 
 <!-- BLOG:START -->
-
+- [20+ DOM Projects: Your Frontend Breakthrough!](https://dev.to/jisan/20-dom-projects-your-frontend-breakthrough-1h8a)
 - [Learn CSS Flexbox in an interesting way! ](https://jisanmia.medium.com/learn-css-flexbox-in-an-interesting-way-3ed3c826efb9)
 - [JavaScript Math Object ](https://jisanmia.medium.com/javascript-math-object-997a9f70117d)
 - [JavaScript Array Methods(Part-1)](https://jisanmia.medium.com/javascript-array-methods-part-1-36d05bc900b3)
