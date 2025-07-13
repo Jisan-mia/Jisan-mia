@@ -56,6 +56,7 @@
 ### 📺 Latest Blogs
 
 <!-- BLOG:START -->
+- [30+ String Manipulation Techniques in JavaScript](https://dev.to/jisan/30-string-manipulation-techniques-in-javascript-1pn2)
 - [20+ DOM Projects: Your Frontend Breakthrough!](https://dev.to/jisan/20-dom-projects-your-frontend-breakthrough-1h8a)
 - [Learn CSS Flexbox in an interesting way! ](https://jisanmia.medium.com/learn-css-flexbox-in-an-interesting-way-3ed3c826efb9)
 - [JavaScript Math Object ](https://jisanmia.medium.com/javascript-math-object-997a9f70117d)
